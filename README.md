@@ -1,8 +1,7 @@
-<html>
-<title> <h1> Who Am I </h1> </title>
+<html> <h1> Who Am I? </h1> 
 </html>
 
--  whats up, im what the username says btw - @ibuildguap
+-  whats up, im what the username says if you didnt get that already, - @ibuildguap
 
 - I’m interested in ... building guap
 
